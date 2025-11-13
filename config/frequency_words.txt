@@ -61,6 +61,13 @@ NVIDIA
 
 AMD
 
+CPU
+GPU
+
+LLM
+VLM
+yolo
+
 谷歌
 google
 gemini
