@@ -1,46 +1,13 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
 华为
 鸿蒙
 HarmonyOS
-任正非
 
-比亚迪
-王传福
+芯片
+显卡
 
-大疆
-DJI
-
-宇树
-王兴兴
-
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
+CPU
+GPU
+NPU
 
 京东
 刘强东
@@ -58,14 +25,13 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
+因特尔
 AMD
 
-CPU
-GPU
-
 LLM
+大模型
 VLM
+多模态大模型
 yolo
 
 谷歌
@@ -76,6 +42,11 @@ deepmind
 chatgpt
 openai
 sora
+deepseek
+
+steam
+游戏
+epic
 
 claude
 Anthropic
@@ -107,14 +78,10 @@ ai
 
 核能
 
-水电站
-雅鲁藏布江
-
-新质生产力
-
 月球
 登月
 火星
 宇宙
 飞船
 航空
+太空
